@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <!--[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)-->
 <h1 align="center">Hi 👋, I'm Pawan Kondebai</h1>
-<h3 align="center">I'm a Full Stack Developer specialised in JavaScript Technologies seeking a challenging position to utilise technical skills and professional experience.</h3>
+<h3 align="center">I'm a Full Stack Developer specialised in JavaScript/TypeScript Technologies </h3>
 <!--<img align= "right" alt="pawanrk" width="400" src="https://pawank.vercel.app/_next/image?url=%2Fpawan_beach.jpg&w=1080&q=95">-->
 
 - 👨‍💻 Check me @ [https://pawank.vercel.app/](https://pawank.vercel.app/)
