@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <h3 align="center">I'm a Full Stack Developer specialised in JavaScript Technologies seeking a challenging position to utilise technical skills and professional experience.</h3>
 <!--<img align= "right" alt="pawanrk" width="400" src="https://pawank.vercel.app/_next/image?url=%2Fpawan_beach.jpg&w=1080&q=95">-->
 
-- 👨‍💻 All of my projects are available at [https://pawank.vercel.app/](https://pawank.vercel.app/)
+- 👨‍💻 Check me @ [https://pawank.vercel.app/](https://pawank.vercel.app/)
 
 - 💬 Ask me about **Javascript, Typescript, ReactJS, NextJS,**
 
