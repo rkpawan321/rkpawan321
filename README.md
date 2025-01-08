@@ -22,11 +22,13 @@ Here are some ideas to get you started:
 
 - 👨‍💻 Check me @ [https://pawank.me/](https://pawank.me/)
 
-- 💬 Ask me about **Javascript, Typescript, ReactJS, NextJS,**
+- 💬 Ask me about Javascript, Typescript, ReactJS, Python, NextJS, Distributed databases
 
 - 📫 How to reach me **rkpawan321@gmail.com**
 
+<!--
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1l458RfuARThtyuKcQM4tgKbnKTDo_Ow7](https://drive.google.com/drive/folders/1l458RfuARThtyuKcQM4tgKbnKTDo_Ow7)
+-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
