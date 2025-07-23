@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 Check me @ [https://pawank.me/](https://pawank.me/)
 
-- 💬 Ask me about Javascript, Typescript, ReactJS, Python, NextJS, Distributed databases
+- 💬 Ask me about Javascript, Python, Typescript, ReactJS, NextJS, Distributed databases
 
 <!--
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1l458RfuARThtyuKcQM4tgKbnKTDo_Ow7](https://drive.google.com/drive/folders/1l458RfuARThtyuKcQM4tgKbnKTDo_Ow7)
