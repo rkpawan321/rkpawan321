@@ -24,8 +24,6 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about Javascript, Typescript, ReactJS, Python, NextJS, Distributed databases
 
-- 📫 How to reach me **rkpawan321@gmail.com**
-
 <!--
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/1l458RfuARThtyuKcQM4tgKbnKTDo_Ow7](https://drive.google.com/drive/folders/1l458RfuARThtyuKcQM4tgKbnKTDo_Ow7)
 -->
